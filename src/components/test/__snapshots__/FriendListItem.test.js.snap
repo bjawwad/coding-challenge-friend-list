@@ -1,0 +1,49 @@
+exports[`<FriendListItem /> should renders without crashing 1`] = `
+<li
+  className={undefined}>
+  <div
+    className={undefined}>
+    <div>
+      <span>
+        Muhammad Bilal
+      </span>
+    </div>
+    <div>
+      <small>
+        xx friends in common
+      </small>
+    </div>
+  </div>
+  <div
+    className={undefined}>
+    <select
+      onChange={[Function]}
+      value={undefined}>
+      <option>
+        Select
+      </option>
+      <option>
+        Male
+      </option>
+      <option>
+        Female
+      </option>
+    </select>
+  </div>
+  <div
+    className={undefined}>
+    <button
+      className="starred btn btn-default undefined"
+      onClick={[Function]}>
+      <i
+        className="fa fa-star-o" />
+    </button>
+    <button
+      className="btn btn-default undefined"
+      onClick={[Function]}>
+      <i
+        className="fa fa-trash" />
+    </button>
+  </div>
+</li>
+`;

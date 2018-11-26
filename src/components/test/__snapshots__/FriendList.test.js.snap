@@ -1,0 +1,146 @@
+exports[`<FriendList /> should render without crashing 1`] = `
+<ul
+  className={undefined}>
+  <li
+    className={undefined}>
+    <div
+      className={undefined}>
+      <div>
+        <span>
+          Theodore Roosevelt
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div
+      className={undefined}>
+      <select
+        onChange={[Function]}
+        value={undefined}>
+        <option>
+          Select
+        </option>
+        <option>
+          Male
+        </option>
+        <option>
+          Female
+        </option>
+      </select>
+    </div>
+    <div
+      className={undefined}>
+      <button
+        className="starred btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-star" />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-trash" />
+      </button>
+    </div>
+  </li>
+  <li
+    className={undefined}>
+    <div
+      className={undefined}>
+      <div>
+        <span>
+          Abraham Lincoln
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div
+      className={undefined}>
+      <select
+        onChange={[Function]}
+        value={undefined}>
+        <option>
+          Select
+        </option>
+        <option>
+          Male
+        </option>
+        <option>
+          Female
+        </option>
+      </select>
+    </div>
+    <div
+      className={undefined}>
+      <button
+        className="starred btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-star-o" />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-trash" />
+      </button>
+    </div>
+  </li>
+  <li
+    className={undefined}>
+    <div
+      className={undefined}>
+      <div>
+        <span>
+          George Washington
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div
+      className={undefined}>
+      <select
+        onChange={[Function]}
+        value={undefined}>
+        <option>
+          Select
+        </option>
+        <option>
+          Male
+        </option>
+        <option>
+          Female
+        </option>
+      </select>
+    </div>
+    <div
+      className={undefined}>
+      <button
+        className="starred btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-star-o" />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-trash" />
+      </button>
+    </div>
+  </li>
+</ul>
+`;
